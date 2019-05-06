@@ -1,0 +1,7 @@
+venv
+.ipynb_checkpoints
+GatheredCode*
+Untitled*
+~$*.docx
+participants
+__pycache__
